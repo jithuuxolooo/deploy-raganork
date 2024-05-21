@@ -1,2 +1,2 @@
-# After forking this, deploy jithuxolo-md:
+# After forking this, deploy :
 <a href="https://raganork.ml/heroku-deploy" target="blank"><img align="center" src="https://i.imgur.com/6rs61MY.png" alt="Deploy bot" height="112" width="310" /></a>
